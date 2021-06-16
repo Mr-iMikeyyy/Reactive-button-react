@@ -43,7 +43,6 @@ input {
 button {
   appearance: none;
   outline: 0;
-  background-color: white;
   border: 0;
   padding: 10px 15px;
   color: #50a3a2;
